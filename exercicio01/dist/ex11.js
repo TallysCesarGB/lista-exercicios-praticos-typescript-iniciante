@@ -8,4 +8,4 @@ var DiaSemana;
     DiaSemana[DiaSemana["SEXTA"] = 4] = "SEXTA";
 })(DiaSemana || (DiaSemana = {}));
 let dia = DiaSemana.QUARTA;
-console.log(`"Dia da semana: ${DiaSemana[dia]}`);
+console.log(`Dia da semana: ${DiaSemana[dia]}`);

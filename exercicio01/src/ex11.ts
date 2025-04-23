@@ -6,4 +6,4 @@ enum DiaSemana {
   SEXTA,
 }
 let dia: DiaSemana = DiaSemana.QUARTA;
-console.log(`"Dia da semana: ${DiaSemana[dia]}`);
+console.log(`Dia da semana: ${DiaSemana[dia]}`);
